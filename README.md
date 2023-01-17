@@ -1,5 +1,5 @@
 # Hai!
-## I'm Coopydood. Welcome to my GitHub profile!
+### I'm Coopydood. Welcome to my GitHub profile!
 
 ### :wave: About Me
 I'm a full time student who likes *computers, gaming, dirtbikes, and even trains*. I specialise in graphic design and video production. I code some stuff on here now n' again.
