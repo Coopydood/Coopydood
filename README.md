@@ -9,4 +9,4 @@ Based on my n00b level of knowledge on languages like *Python, C#, and HTML*, I'
 
 My current active project is **ultimate-macOS-KVM**, which provides an easy / automated way into KVM and PCI passthrough.
 
-#### :scotland:  Oh and I'm from the tiny country of Scotland! :]
+#### :scotland:  Oh and I'm from the tiny country of Scotland :]
