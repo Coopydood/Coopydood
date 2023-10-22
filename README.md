@@ -19,6 +19,6 @@ My current active project is **[ultimate-macOS-KVM](https://github.com/Coopydood
 > [!WARNING]
 > Mental scottish guy
 
-<br></br>
+
 #### :scotland:     Oh and I'm from the tiny country of Scotland :]
 
