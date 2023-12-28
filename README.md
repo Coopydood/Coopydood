@@ -13,7 +13,7 @@ My current active project is **[ultimate-macOS-KVM](https://github.com/Coopydood
 > [!IMPORTANT]
 > Writes code at nerding hour (3am-4am)
 
-> [!WARNING]
+> [!CAUTION]
 > Dangerous levels of intellect deficiency
 
 > [!WARNING]
