@@ -14,7 +14,6 @@ My current active project is **[ultimate-macOS-KVM](https://github.com/Coopydood
 
 #### :scotland:     Oh and I'm from the tiny country of Scotland :] <br>
 
-<br>
 
 &nbsp;
 
