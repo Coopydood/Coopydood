@@ -28,7 +28,7 @@ Helping noobs and pros alike build the ultimate macOS virtual machine with easy 
 <br>
 
 <img align="left" width="100" height="100" src="https://github.com/Coopydood/Coopydood/assets/39441479/f37fd9ea-4de9-447c-9cd9-36dd61027a52">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=190 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=170 width=2 />
 
 <h3>HyperFluent<br><sub><a href="https://github.com/Coopydood/HyperFluent-GRUB-Theme">HyperFluent-GRUB-Theme</a></sub></h3>
 
