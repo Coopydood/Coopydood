@@ -27,7 +27,7 @@ Helping noobs and pros alike build the ultimate macOS virtual machine with easy 
 
 
 <img align="left" width="100" height="100" src="https://github.com/Coopydood/Coopydood/assets/39441479/b54b7098-bc82-4110-8a3e-2c4ed729b1b0">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=150 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=130 width=2 />
 
 <h3>Hackintosh on ROG STRIX Z490-E<br><sub><a href="https://github.com/Coopydood/OpenCore-Z490E-CometLake">OpenCore-Z490E-CometLake</a></sub></h3>
 
