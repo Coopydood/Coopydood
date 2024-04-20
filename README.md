@@ -23,9 +23,15 @@ My current active project is **[ULTMOS](https://github.com/Coopydood/ultimate-ma
 
 <h3>ULTMOS<br><sub><a href="https://github.com/Coopydood/ultimate-macOS-KVM">ultimate-macOS-KVM</a></sub></h3>
 
-Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM.
+Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. <br><br>
 
-<br>
+
+<img align="left" width="100" height="100" src="https://github.com/Coopydood/Coopydood/assets/39441479/b54b7098-bc82-4110-8a3e-2c4ed729b1b0">
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=150 width=2 />
+
+<h3>Hackintosh on ROG STRIX Z490-E<br><sub><a href="https://github.com/Coopydood/OpenCore-Z490E-CometLake">OpenCore-Z490E-CometLake</a></sub></h3>
+
+OpenCore Hackintosh configuration for the ASUS ROG STRIX Z490-E GAMING motherboard with an Intel® Core™ i9-10900K. <br><br>
 
 <img align="left" width="100" height="100" src="https://github.com/Coopydood/Coopydood/assets/39441479/f37fd9ea-4de9-447c-9cd9-36dd61027a52">
 <img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=170 width=2 />
