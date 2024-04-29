@@ -19,7 +19,7 @@ My current active project is **[ULTMOS](https://github.com/Coopydood/ultimate-ma
 ### My Projects
 
 <img align="left" width="100" height="100" src="https://github.com/Coopydood/ultimate-macOS-KVM/blob/main/resources/images/ULTMOS.png?raw=true">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=135 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=120 width=2 />
 
 <h3>ULTMOS<br><sub><a href="https://github.com/Coopydood/ultimate-macOS-KVM">ultimate-macOS-KVM</a></sub></h3>
 
