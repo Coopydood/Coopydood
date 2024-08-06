@@ -34,14 +34,14 @@ Helping noobs and pros alike build the ultimate macOS virtual machine with easy 
 OpenCore Hackintosh configuration for the ASUS ROG STRIX Z490-E GAMING motherboard with an Intel® Core™ i9-10900K. <br><br>
 
 <img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/4bbeca09-c1fb-4f80-8a0c-38e8cc3dfb37">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=135 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=175 width=2 />
 
 <h3>Hackintosh on Dell OptiPlex 7060 SFF<br><sub><a href="https://github.com/Coopydood/OpenCore-OptiPlex7060-SFF/">OpenCore-OptiPlex7060-SFF</a></sub></h3>
 
 This Dell OptiPlex ain't dreaming in Excel spreadsheets. It's a full-fat Hackintosh. <br><br>
 
 <img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/b0fce891-4de1-4397-b330-923c316abc65">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=135 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=175 width=2 />
 
 <h3>Hackintosh on Dell OptiPlex 7050 Micro<br><sub><a href="https://github.com/Coopydood/OpenCore-OptiPlex7050-Micro/">OpenCore-OptiPlex7050-Micro</a></sub></h3>
 
