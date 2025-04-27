@@ -2,7 +2,7 @@
 
 ***
 <img align="left" width="100" height="100" src="https://images.weserv.nl/?url=https://github.com/Coopydood.png?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=250 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=230 width=2 />
 
 <h3>About Me</h3>
 
@@ -11,6 +11,20 @@ I'm a computer nerd, and love all things Linux and open source. I specialise in 
 Based on my n00b level of knowledge on languages like *Python, C#, and HTML*, I've created a couple things on here. Feel free to have a nosy!
 
 My current active project is **[ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM)**, which provides an easy / automated way into KVM and PCI passthrough. I'm still a designer at heart, though - I also made a fluent GRUB theme called **[HyperFluent](https://github.com/Coopydood/HyperFluent-GRUB-Theme)**.
+
+<details><summary><h4>View my computer specs!</h4></summary>
+
+|                 | **HyperFusion**                                                                                                   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------|
+| **OSes**        | Arch Linux<br>macOS Sonoma                                                                                        |
+| **Motherboard** | ASUS ROG STRIX Z490-E GAMING                                                                                      |
+| **CPU**         | Intel Core i9-10900K                                                                                              |
+| **GPUs**        | NVIDIA RTX 3090<br>AMD RX 5700 XT                                                                                 |
+| **Memory**      | 64 GB DDR4 3200MHz                                                                                                |
+| **Disks**       | Samsung 980 PRO NVMe<br>WD Blue NVMe<br>Seagate Barracuda 1TB SSD<br>Seagate 2TB 7200 HDD<br>Seagate 6TB 5400 HDD |
+
+</details>
+
 
 #### :scotland:     Oh and I'm from the tiny country of Scotland :]
 
