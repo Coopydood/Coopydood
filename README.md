@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>
 
-I'm a full time student who likes *computers, gaming, dirtbikes, and even trains*. I specialise in graphic design and video production. I code some stuff on here now n' again.
+I'm a computer nerd, and love all things Linux and open source. I specialise in graphic design and video production. I code some stuff on here now n' again.
 
 Based on my n00b level of knowledge on languages like *Python, C#, and HTML*, I've created a couple things on here. Feel free to have a nosy!
 
