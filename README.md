@@ -2,7 +2,7 @@
 
 ***
 <img align="left" width="100" height="100" src="https://images.weserv.nl/?url=https://github.com/Coopydood.png?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d">
-<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=230 width=2 />
+<img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=230 width=0 />
 
 <h3>About Me</h3>
 
